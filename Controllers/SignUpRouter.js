@@ -35,7 +35,7 @@ router.post('/signup', async (req, res) => {
         });
 
         const mailOptions = {
-            from: 'zakarias.yussif@gmail.com',
+            from: 'zackyaroo31@gmail.com',
             to: email,
             subject: 'Confirm Account',
             html: `
