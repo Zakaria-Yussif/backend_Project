@@ -29,8 +29,8 @@ router.post('/signup', async (req, res) => {
         const transporter = nodemailer.createTransport({
             service: 'gmail',
             auth: {
-                user: 'zakarias.yussif@gmail.com', // Your Gmail email
-                pass: 'quizcazzmqwwethj' // Your Gmail password
+                user: 'zackyaroo31@gmail.com', // Your Gmail email
+                pass: 'ednn sbpo darm wnmq' // Your Gmail password
             }
         });
 
